@@ -1,5 +1,3 @@
-### Hi there 👋
-SamuelLiuYZ/README.md
 👋 Hi, I’m @dmackeyward
 👀 I’m interested in sports, problem solving, and self-growth
 🌱 I’m currently learning Atlassian, Github, local AI, image-generation, video-generation, image-detection, React, Javascript, Typescript, and much more
